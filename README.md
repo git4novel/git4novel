@@ -1,3 +1,4 @@
+![logo](https://github.com/git4novel/git4novel/blob/main/Black%20And%20Blue%20Modern%20Marketing%20Outdoor%20Banner.png)
 <h1 align="center">Hi 👋, I'm Mehdi Nobel(Novel)</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="code" width="400" src="https://tenor.com/search/programming-gifs" >
