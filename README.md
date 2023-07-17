@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mehdi Nobel(Novel)</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-
+<img align="right" alt="code" width="400" src="![image](https://github.com/git4novel/git4novel/assets/121821703/c1a091c1-33cf-45c6-a762-60c0596ea067)" >
 - 🌱 I’m currently learning **Redux, Next 13, TS**
 
 - 👨‍💻 All of my projects are available at [https://mh-nobel-portfolio.netlify.app/](https://mh-nobel-portfolio.netlify.app/)
