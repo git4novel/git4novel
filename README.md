@@ -2,6 +2,10 @@
 <h1 align="center">Hi 👋, I'm Mehdi Nobel(Novel)</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
+- 👨‍💻 I am a passionate programmer, Front End Developer, Mern Stack Developer.
+
+- 👨‍💻 Confident at HTML,CSS,JS,REACT,MONGODB,NODE,EXPRESS,TAILWIND,BS5,MUI ETC.
+
 - 🌱 I’m currently learning **Redux, Next 13, TS**
 
 - 👨‍💻 All of my projects are available at [https://mh-nobel-portfolio.netlify.app/](https://mh-nobel-portfolio.netlify.app/)
