@@ -4,7 +4,7 @@
 
 - 👨‍💻 I am a passionate programmer, Front End Developer, Mern Stack Developer.
 
-- 👨‍💻 Confident at HTML,CSS,JS,REACT,MONGODB,NODE,EXPRESS,TAILWIND,BS5,MUI ETC.
+- 👨‍💻 Confident at HTML, CSS, JS, REACT, MONGODB, NODE, EXPRESS, TAILWIND, BS5, MUI ETC.
 
 - 🌱 I’m currently learning **Redux, Next 13, TS**
 
