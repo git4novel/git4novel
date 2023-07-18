@@ -1,10 +1,10 @@
 ![logo](https://github.com/git4novel/git4novel/blob/main/1.png)
 <h1 align="center">Hi 👋, I'm Mehdi Nobel(Novel)</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate frontend developer from Bangladesh 💻</h3>
 
-- 👨‍💻 I am a passionate programmer, Front End Developer, Mern Stack Developer.
+- 👨‍💻 I am a passionate programmer, Front End Developer, Mern Stack Developer. 
 
-- 👨‍💻 Confident at HTML, CSS, JS, REACT, MONGODB, NODE, EXPRESS, TAILWIND, BS5, MUI ETC.
+- ⌨️ Confident at HTML, CSS, JS, REACT, MONGODB, NODE, EXPRESS, TAILWIND, BS5, MUI ETC.
 
 - 🌱 I’m currently learning **Redux, Next 13, TS**
 
@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ZzGQUh7b1G4priBadO1CKRMNL17FgTvI/view?usp=sharing](https://drive.google.com/file/d/1ZzGQUh7b1G4priBadO1CKRMNL17FgTvI/view?usp=sharing)
 
-- ⚡ Fun fact **I am a Programmer and I don't carry a life.**
+- ⚡ Fun fact **I am a Programmer and I don't carry a life.** 🧗💪🧠
 
 
 ## :mailbox: Contact with me
